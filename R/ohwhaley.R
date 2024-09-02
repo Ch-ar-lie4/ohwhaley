@@ -61,3 +61,4 @@ phrases <- c(
 usethis::use_mit_license("Charlie Recchia")
 usethis::use_testthat()
 usethis::use_test("ohwhaley")
+usethis::use_git()
